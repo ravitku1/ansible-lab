@@ -1,6 +1,6 @@
 ---
 - name: Hello World!
-  hosts: local
+  hosts: localhost
   #become: yes
   #become_user: ravit
   
