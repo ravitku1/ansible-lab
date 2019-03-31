@@ -1,1 +1,6 @@
 ---
+
+  tasks:
+
+  - name: Hello
+    shell: echo "welcome to ansible tower!"
