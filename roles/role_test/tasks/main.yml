@@ -1,5 +1,3 @@
 ---
 # tasks file for role_test
-tasks:
-  - name: Hello World!
-    shell: echo "Hi! Tower is working."
+- import_tasks: hworld.yml
