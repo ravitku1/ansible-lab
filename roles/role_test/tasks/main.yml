@@ -1,7 +1,5 @@
 ---
 # tasks file for role_test
-
-  tasks:
-
+tasks:
   - name: Hello World!
-    shell: echo "Hi! Tower is working."
+   shell: echo "Hi! Tower is working."
