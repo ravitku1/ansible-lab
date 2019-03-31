@@ -1,4 +1,2 @@
 ---
-  - src: git@github.com:ravitku1/ansible-lab.git
-  version: master
-  name: hello
+  - src: https://github.com/ravitku1/ansible-lab.git
