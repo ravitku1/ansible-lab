@@ -6,4 +6,5 @@
   
   roles:
   - role_test
+  - pause
 ...
