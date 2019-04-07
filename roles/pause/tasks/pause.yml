@@ -1,7 +1,7 @@
 ---
 # Pause for 5 minutes to build app cache.
 - pause:
-    minutes: 5
+    minutes: 1
 
 # Pause until you can verify updates to an application were successful.
 - pause:
