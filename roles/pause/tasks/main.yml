@@ -1,4 +1,4 @@
 ---
 # tasks file for pause
-import_tasks: pause.yml
+- import_tasks: pause.yml
 ...
